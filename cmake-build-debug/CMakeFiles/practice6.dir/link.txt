@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/practice6.dir/link.d CMakeFiles/practice6.dir/main.cpp.o CMakeFiles/practice6.dir/wifi.cpp.o -o practice6
